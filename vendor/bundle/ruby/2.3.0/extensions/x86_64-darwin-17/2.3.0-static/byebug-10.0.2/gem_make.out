@@ -1,0 +1,19 @@
+current directory: /Users/takahiro/RubymineProjects/test/20190104/hello-rails/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+/Users/takahiro/.rbenv/versions/2.3.3/bin/ruby -I /Users/takahiro/.rbenv/versions/2.3.3/lib/ruby/site_ruby/2.3.0 -r ./siteconf20190104-30699-a4t7fl.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takahiro/RubymineProjects/test/20190104/hello-rails/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/takahiro/RubymineProjects/test/20190104/hello-rails/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/takahiro/RubymineProjects/test/20190104/hello-rails/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190104-30699-14y80up/byebug
